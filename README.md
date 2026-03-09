@@ -24,7 +24,7 @@ My focus is **adoption + enablement + measurable business outcomes**—not “AI
 ---
 
 ## Featured work
-> If you’re viewing this before I’ve pinned everything, check my repos list—these are the core builds.
+> If you’re viewing this before I’ve pinned everything, check my repos list—these are the core builds.  I was hacked and am building everything from scratch.
 
 ### ⭐ Flagship
 - **AI Prospecting Agent (GTM workflow)** — Automates: research → qualify → draft outreach  
