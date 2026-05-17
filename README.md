@@ -1,4 +1,4 @@
-# Beth Silverberg  
+# Beth Silverberg  Published Author and CEO of Word Idol
 **AI-Enabled GTM + Partnerships | Generative AI Adoption | Revenue Ops Automation**  
 Remote • Fractional / Consulting • US
 
